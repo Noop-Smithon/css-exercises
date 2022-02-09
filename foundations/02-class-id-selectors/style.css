@@ -1,0 +1,16 @@
+p {
+    background-color: pink;
+    font-family: verdana "dejavu sans" sans-serif;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+p .third {
+    font-size: 24px;
+}
+#fourth {
+    background-color: rgb(190, 233, 190);
+    font-size: 24px;
+    font-weight: bold;
+}
